@@ -1,0 +1,36 @@
+24-08-2022 00:54:19 INFO  file:35 - Сервер запущен
+24-08-2022 00:54:46 WARN  file:46 - Socket closed
+24-08-2022 00:58:18 WARN  file:46 - Socket closed
+24-08-2022 00:58:45 WARN  file:46 - Socket closed
+24-08-2022 01:20:01 INFO  file:35 - Сервер запущен
+24-08-2022 01:20:22 WARN  file:46 - Socket closed
+24-08-2022 01:21:17 WARN  file:46 - Socket closed
+24-08-2022 01:24:06 WARN  file:46 - Connection reset
+24-08-2022 01:24:26 WARN  file:46 - Connection reset by peer
+24-08-2022 01:24:53 INFO  file:35 - Сервер запущен
+24-08-2022 01:25:25 WARN  file:46 - Socket closed
+24-08-2022 01:27:19 WARN  file:46 - Socket closed
+24-08-2022 01:28:49 INFO  file:35 - Сервер запущен
+24-08-2022 01:28:57 WARN  file:46 - Socket closed
+24-08-2022 01:29:18 WARN  file:46 - Connection reset
+25-08-2022 22:59:51 INFO  file:35 - Сервер запущен
+25-08-2022 23:01:25 WARN  file:46 - Socket closed
+25-08-2022 23:01:28 WARN  file:46 - Socket closed
+31-08-2022 23:17:30 INFO  file:35 - Сервер запущен
+31-08-2022 23:18:01 WARN  file:46 - Socket closed
+12-02-2023 00:14:14 INFO  file:35 - Сервер запущен
+12-02-2023 00:23:27 WARN  file:46 - Socket closed
+12-02-2023 00:23:36 WARN  file:46 - Socket closed
+12-02-2023 01:48:58 FATAL file:17 - Address already in use: bind
+12-02-2023 01:52:40 WARN  file:46 - Socket closed
+12-02-2023 01:59:44 FATAL file:17 - Address already in use: bind
+12-02-2023 02:19:39 WARN  file:46 - Socket closed
+12-02-2023 02:19:54 WARN  file:46 - Socket closed
+28-03-2023 22:17:38 INFO  file:34 - Сервер запущен
+28-03-2023 22:18:03 WARN  file:46 - Socket closed
+28-03-2023 22:19:32 WARN  file:46 - Connection reset
+28-03-2023 22:34:02 WARN  file:46 - Socket closed
+28-03-2023 22:34:06 WARN  file:46 - Socket closed
+07-02-2024 19:37:15 INFO  file:34 - Сервер запущен
+07-02-2024 19:44:19 WARN  file:46 - Socket closed
+07-02-2024 19:44:22 WARN  file:46 - Socket closed
